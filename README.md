@@ -1,3 +1,19 @@
+# Output
+![SS1](output/SS1.png)
+![SS2](output/SS2.png)
+![SS3](output/SS3.png)
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
